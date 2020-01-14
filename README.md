@@ -1,46 +1,11 @@
-# jboss-eap-6.4 [![Build Status](https://travis-ci.org/daggerok/jboss-eap-6.4.svg?branch=master)](https://travis-ci.org/daggerok/jboss-eap-6.4)
-Patched JBoss EAP 6.4 (including __6.4.22 patch__) Docker automation build based on centos8 / alpine3.9 images
+# jboss-eap-6.4
+Patched JBoss EAP 6.4 (including __6.4.22 patch__) Docker automation build based on amazoncorretto:8 images
 
 This image is located on [docker hun](https://hub.docker.com/r/daggerok/jboss-eap-6.4/) as `daggerok/jboss-eap-6.4`
 
-## tags
-
-- [latest](https://github.com/daggerok/jboss-eap-6.4/blob/master/Dockerfile)
-
-- [6.4.22-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.22-alpine/Dockerfile)
-- [6.4.22-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.22-centos/Dockerfile)
-
-- [6.4.21-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.21-alpine/Dockerfile)
-- [6.4.21-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.21-centos/Dockerfile)
-
-- [6.4.20-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.20-alpine/Dockerfile)
-- [6.4.20-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.20-centos/Dockerfile)
-
-- [6.4.19-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.19-alpine/Dockerfile)
-- [6.4.19-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.19-centos/Dockerfile)
-
-- [6.4.9-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.9-alpine/Dockerfile)
-- [6.4.9-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.9-centos/Dockerfile)
-
-- [6.4.5-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.5-alpine/Dockerfile)
-- [6.4.5-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.5-centos/Dockerfile)
-
-- [6.4.4-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.4-alpine/Dockerfile)
-- [6.4.4-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.4-centos/Dockerfile)
-
-- [6.4.3-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.3-alpine/Dockerfile)
-- [6.4.3-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.3-centos/Dockerfile)
-
-- [6.4.2-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.2-alpine/Dockerfile)
-- [6.4.2-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.2-centos/Dockerfile)
-
-- [6.4.1-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.1-alpine/Dockerfile)
-- [6.4.1-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.1-centos/Dockerfile)
-
-- [6.4.0-alpine](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.0-alpine/Dockerfile)
-- [6.4.0-centos](https://github.com/daggerok/jboss-eap-6.4/blob/6.4.0-centos/Dockerfile)
-
 ## usage
+
+[TODO]
 
 ### health check
 
